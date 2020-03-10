@@ -23,7 +23,7 @@ So let's do it, although it is explained in different websites, I just mentioned
 4. Python versions : 
     
     Python 3:
-    `$ virtualenv -p /usr/bin/python3 virtualenv_name`
+    `$ virtualenv -p /usr/bin/python virtualenv_name`
     
     Python 2.7: 
     `$ virtualenv -p /usr/bin/python2.7 virtualenv_name`
@@ -45,7 +45,7 @@ Until now you have learnt how to create your own VirtaulEnv on your os, but now 
 
 1. when you are in current location on your terminal :
 
-    `$ ipython kernel install --user --name = my_name`
+    `$ ipython kernel install --user --name my_name`
   
 More and Advance Options : 
 
