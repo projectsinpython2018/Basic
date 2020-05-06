@@ -3,7 +3,7 @@
 In [previous post ](https://github.com/projectsinpython2018/Basic/blob/master/Create_Virtual_Environment.md#virtual-environment)explain about `Virtualenv`, and why we need that.
 This document explain how to create a `conda virtualenv` for whose use Anaconda. 
 Anacoda creates easy pathway for virtualenv, it's such straight forward. Lets look at it: 
-## Note: Because it's about coding on python, I use `#` for comment. 
+### Note: Because it's about coding on python, I use `#` for comment. 
 
 `# Change Directory (cd) to [file]`
 
